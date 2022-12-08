@@ -1,6 +1,6 @@
-#PrinterBox
+# PrinterBox
 
-Petite boite muni d'un bouton et d'une mini imprimante thermique.
+Petite boîte muni d'un bouton et d'une mini imprimante thermique.
 
 -------
 Matériels:
@@ -16,4 +16,4 @@ Génération du tableau de pour l'image :
 https://javl.github.io/image2cpp/
 
 
-Il faut inverser les couleurs : Backgroud blanc et Invert image colors
+Il faut inverser les couleurs : Backgroud white et l'option Invert image colors. La preview sur le site est donc inversée par rapport à l'impression.
